@@ -28,7 +28,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongchyeon&layout=compact&hide=jupyter%20notebook,html&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongchyeon&layout=compact&hide=jupyter%20notebook,html&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rocket2485)](https://solved.ac/rocket2485)
 </div>
 
