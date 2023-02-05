@@ -24,6 +24,10 @@
 <div align="center">
 <h2>:bar_chart:Stats</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dongchyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
