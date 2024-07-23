@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=DongChyeon&desc=Hello%20I'm&descAlignY=30&fontColor=ffffff&fontSize=48)
 
-<h1 align="center">
-    Now, I'm interested in <strong>Multi-Module</strong>, <strong>Compose</strong>, <strong>MVI</strong>
-</h1>
+안녕하세요! 주로 안드로이드 개발을 하고 있는 프론트엔드 개발자 김동현입니다! 외주나 각종 사이드 프로젝트, 공모전에 참여 중입니다.<br>
+개발을 즐기고 항상 더 좋은 코드를 짜기 위해 노력중입니다!
 <br>
 
 <div align="center">
-<h2>:books:Stacks</h2>
+<h2>:books: Android Stacks</h2>
 
 |Category|Stack|
 |------|---|
@@ -24,7 +23,7 @@
 
 <br>
 
-<h2>:computer:Projects</h2>
+<h2>:computer: Projects</h2>
 
 ### 나만의 와인을 찾는 여행, [`WINEY`](https://github.com/AdultOfNineteen/WINEY-Android)
 ### AI가 선정하는 오늘의 키워드, [`Briefing`](https://github.com/DongChyeon/Briefing-Android)
@@ -32,14 +31,13 @@
 
 <br>
 
-## :bar_chart:Stats
+## 📈 Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dongchyeon)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongchyeon&theme=dark" alt="swa07016's GitHub Streak" style="display: inline-block; vertical-align: top;" width="424" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dongchyeon&show_icons=true&theme=gotham" alt="swa07016's GitHub Stats" style="display: inline-block; vertical-align: top;" width="400" />
+</p>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongchyeon&layout=compact&hide=jupyter%20notebook,html&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rocket2485)](https://solved.ac/rocket2485)
 </div>
 
 
