@@ -26,14 +26,6 @@
 
 <br>
 
-<h2>:computer: Projects</h2>
-
-### 나만의 와인을 찾는 여행, [`WINEY`](https://github.com/AdultOfNineteen/WINEY-Android)
-### AI가 선정하는 오늘의 키워드, [`Briefing`](https://github.com/DongChyeon/Briefing-Android)
-### 현장 엔지니어를 위한 업무 관리 앱, [`FieldMate`](https://github.com/CMC-12th-Hana/FieldMate-Android)
-
-<br>
-
 ## 📈 Stats
 
 <p align="center">
